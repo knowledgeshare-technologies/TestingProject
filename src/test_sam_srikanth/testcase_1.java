@@ -1,0 +1,10 @@
+package test_sam_srikanth;
+
+public class testcase_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("This is test case 1");
+	}
+
+}
